@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 💬 I have created several projects both individually and as part of a group, spanning various areas such as programming, data analysis, data visualization, and prediction. Feel free to view these projects based on your interests and preferences.
+
 
 <!--
 **LeonWongLeung/LeonWongLeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
